@@ -1,0 +1,19 @@
+form {
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+}
+
+#keisti {
+    visibility: hidden;
+}
+
+.images {
+    display: flex;
+    align-content: center;
+    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+    gap: 2px;
+    visibility: hidden;
+}
